@@ -130,7 +130,7 @@ Esses cenários ajudam a identificar possíveis erros e a verificar se cada estr
 1. Abra o projeto no Apache NetBeans.
 2. Aguarde a conclusão do carregamento do projeto.
 3. Compile os arquivos Java.
-4. Execute a classe `Main.java`.
+4. Execute a classe `CentralAcademica.java`.
 5. Utilize as opções disponíveis no programa para testar as operações implementadas.
 
   10. Considerações Finais
